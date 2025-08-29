@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "malvin~12dUzBZJ#pzpLhFcP5DzRMqSXdx4leVwo3ZKRZJ4c7yJVFcXF3yM",
         "value":"",
         "required": true
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "𝐄=𝐌𝐂².",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
@@ -39,13 +39,13 @@
    }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "description": "237651442921.",
+      "value": "237651442921"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "𝐄=𝐌𝐂²",
       "value": "",
       "required": true
     }
